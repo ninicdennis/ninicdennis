@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Car Projecto](https://github.com/ninicdennis/car-projecto)
 
-- 🌱 I’m currently learning **Next.js, Jenkins, Supabase**
+- 🌱 I’m currently learning **Next.js, Typescript, Supabase**
 
-- 👯 I’m currently studying [Jenkins Auto Deploy](https://www.jenkins.io/)
+- 👯 I’m currently studying [Typescript](https://www.typescriptlang.org)
 
 - 🤝 I’m looking to collaborate [on anything!](https://github.com/ninicdennis/car-projecto)
 
