@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ninicdennis](https://github.com/ninicdennis)
 
-- 📝 I regularly write articles on [https://ninicdennis.github.io/](https://ninicdennis.github.io/)
-
 - 💬 Ask me about **Backend Technologies**
 
 - 📄 Know about my experiences [https://ninicdennis.github.io/resume/](https://ninicdennis.github.io/resume/)
