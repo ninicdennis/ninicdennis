@@ -9,8 +9,6 @@
 
 - 👯 I’m currently studying [Typescript](https://www.typescriptlang.org)
 
-- 🤝 I’m looking to collaborate [on anything!](https://github.com/ninicdennis/playground-website)
-
 - 👨‍💻 All of my projects are available at [https://github.com/ninicdennis](https://github.com/ninicdennis)
 
 - 💬 Ask me about **Backend Technologies**
