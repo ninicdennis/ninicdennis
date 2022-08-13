@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninicdennis&label=Profile%20views&color=0e75b6&style=flat" alt="ninicdennis" /> </p>
 
-- 🔭 I’m currently working on [a playground website!](https://github.com/ninicdennis/playground-website)
+- 🔭 I’m currently working on [Project: Car](https://github.com/ninicdennis/project-car)
 
-- 🌱 I’m currently learning **Next.js, Typescript, Supabase**
+- 🌱 I’m currently learning **Next.js, Prisma, Supabase**
 
-- 👯 I’m currently studying [Typescript](https://www.typescriptlang.org)
+- 👯 I’m currently studying [Graphql](https://graphql.org/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ninicdennis](https://github.com/ninicdennis)
+- 👨‍💻 All of my projects are available here!
 
 - 💬 Ask me about **Backend Technologies**
 
