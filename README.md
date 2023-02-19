@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Backend Technologies**
 
-- 📄 Know about my experiences [https://ninicdennis.github.io/resume/](https://ninicdennis.github.io/resume/)
+- 📄 Know about my experiences [https://ninicdennis.github.io/resume/](https://denny.vercel.app)
 
 - ⚡ Fun fact **I collect Gameboys!**
 
